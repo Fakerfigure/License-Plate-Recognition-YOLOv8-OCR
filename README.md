@@ -16,6 +16,13 @@
     conda create -n myenv python=3.10
     codna activate myenv
 ```
+
+- 拉取项目
+```
+    git clone https://github.com/Fakerfigure/License-Plate-Recognition-YOLOv8.git
+    cd License-Plate-Recognition-YOLOv8
+```
+
 - 加载依赖项
 ```
     pip install -r requirement.txt
