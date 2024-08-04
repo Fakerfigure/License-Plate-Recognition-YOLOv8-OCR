@@ -26,7 +26,7 @@
 
 - 加载依赖项
 ```
-    pip install -r requirement.txt
+    pip install -r requirements.txt
 ```
 
 ## ……启动！
